@@ -1,1 +1,3 @@
-# **UNDER CONSTRUCTION**
+# **Icomplete**
+
+A chat app that uses firestore as its database.
